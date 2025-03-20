@@ -1,0 +1,4 @@
+crewai
+langchain_google_genai # google gemini ai models
+load_dotenv
+crewai-tools==0.2.6
